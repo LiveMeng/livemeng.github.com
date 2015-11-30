@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[LiveMeng's Blog]]></title>
+  <link href="http://livemeng.github.io/atom.xml" rel="self"/>
+  <link href="http://livemeng.github.io/"/>
+  <updated>2015-11-30T18:15:38+08:00</updated>
+  <id>http://livemeng.github.io/</id>
+  <author>
+    <name><![CDATA[LiveMeng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[终于下定决心写技术博客]]></title>
+    <link href="http://livemeng.github.io/blog/2015/11/30/zhong-yu-xia-ding-jue-xin-xie-ji-zhu-blog/"/>
+    <updated>2015-11-30T16:17:25+08:00</updated>
+    <id>http://livemeng.github.io/blog/2015/11/30/zhong-yu-xia-ding-jue-xin-xie-ji-zhu-blog</id>
+    <content type="html"><![CDATA[<p>总是找借口没时间、没精力写技术博客，发现这几年都没好好总结学的知识、遇到的问题，感觉知识越来越杂乱，终于还是要开始写技术博客了。</p>
+]]></content>
+  </entry>
+  
+</feed>
